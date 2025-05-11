@@ -1,6 +1,6 @@
 # Federated Learning in ECG Anomaly Detection
 
-<<<<<<< HEAD
+
 # Content:
 ##	1) Folders:
 ###     a) report/truncated_report_copy: truncated version of original report
@@ -83,4 +83,4 @@ not seen previously when pre-trained while being cost effective.
 (uses PyTorch at the background). Here, the project uses TFF which is still in its initial
 state (Version 0) and thus not able to support fully for practical implementation except
 simulation. Thus, this paper contributes to the application/research in TFF.
->>>>>>> 728715881f5a29079afd567701eaf6cc907a3140
+
